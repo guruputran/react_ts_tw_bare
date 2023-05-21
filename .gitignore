@@ -10,8 +10,7 @@
 
 # production
 /build
-/Learn-React-with-TypeScript-2nd-Edition-main.zip
-Chapter8/
+
 # misc
 .DS_Store
 .env.local
